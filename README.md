@@ -1,11 +1,6 @@
 #  Mean and variance of a discrete  distribution
 EXP-1
 
-21-09-2024
-
-NAME:T.K.SHRIVIMAL
-
-REG NO:24003314
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
